@@ -1,0 +1,7 @@
+E:\t2303e\APC\bin\Debug\APC.exe.config
+E:\t2303e\APC\bin\Debug\APC.exe
+E:\t2303e\APC\bin\Debug\APC.pdb
+E:\t2303e\APC\obj\Debug\APC.csproj.AssemblyReference.cache
+E:\t2303e\APC\obj\Debug\APC.csproj.CoreCompileInputs.cache
+E:\t2303e\APC\obj\Debug\APC.exe
+E:\t2303e\APC\obj\Debug\APC.pdb
